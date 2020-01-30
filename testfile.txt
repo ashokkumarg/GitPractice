@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Test the file
 Tested the file
 Test the file second time
 Test
 Tester
 Tester
+=======
+Developer
+>>>>>>> 08a87aa1b0d565b026275449ea7386f0980c8cfb
